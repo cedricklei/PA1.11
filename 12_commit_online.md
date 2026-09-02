@@ -7,6 +7,7 @@ This page will show you how to make commits to the remote repository on GitHub d
 To edit this file via the web browser you need to locate it on GitHub on your personal repository you created via the GitHub classroom link. First click on the file in the GitHub repository, then the pencil icon. Replace the comment below with your own content
 
 this line was a pain in the ass..
+and here I am, only editing this, after seeing the autograder line. right. that order should be around. no wonder why the autocorrect did in fact not work..!
 
 ## Task 2 Commit your change
 
